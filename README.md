@@ -12,7 +12,7 @@ Before you can use this library, you must:
 
 ## Setup
 
-To add this library to your scrupt file, do the following in the Apps Script code editor:
+To add this library to your script file, do the following in the Apps Script code editor:
 
 1. Click on the menu item "Resources > Libraries..."
 2. In the "Add a Library" text box, enter the script ID `1z8ZNWyiRYvxumRw5z4UEX5lhvk2PwoBDlxl2V_LTuiB2CIvsdjPyz3QQ` and click the "Add" button.
